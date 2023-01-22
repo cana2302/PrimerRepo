@@ -1,0 +1,53 @@
+*{
+    padding: 0% 2.7%;         /*Ancho de bordes laterales de toda la página*/
+}
+
+body{
+    background: rgb(158, 158, 158);
+    font-family: Verdana, Geneva, Tahoma;
+}
+
+body header{
+    background: #ffffff;                     /*Color de fondo portada*/
+    border-bottom: 3px solid rgb(0, 0, 0);   /*Borde de abajo*/  
+}
+
+body header img{
+    width: 10%;                                /*Ancho img portada*/
+}
+
+body section{
+    background: #ffffff;
+}
+
+body section h2,center{
+    padding: 1.5%;
+}
+
+body section h2{
+    text-decoration: underline;
+}
+
+#tabla{
+   width:750px;
+   height:650px;
+   background-color: rgb(128, 97, 62);
+}
+
+#Celda_1,#Celda_3,#Celda_5,#Celda_7,#Celda_9,#Celda_10,#Celda_12,#Celda_14,#Celda_16,#Celda_17,#Celda_19,#Celda_21,#Celda_23,#Celda_26,#Celda_28,#Celda_30,#Celda_32,#Celda_33,#Celda_35,#Celda_37,#Celda_39,#Celda_42,#Celda_44,#Celda_46,#Celda_48,#Celda_49,#Celda_51,#Celda_53,#Celda_55,#Celda_58,#Celda_60,#Celda_62,#Celda_64{
+    background-color: #000000;
+}
+#Celda_2,#Celda_4,#Celda_6,#Celda_8,#Celda_9,#Celda_11,#Celda_13,#Celda_15,#Celda_18,#Celda_20,#Celda_22,#Celda_24,#Celda_25,#Celda_27,#Celda_29,#Celda_31,#Celda_34,#Celda_36,#Celda_38,#Celda_40,#Celda_41,#Celda_43,#Celda_45,#Celda_47,#Celda_50,#Celda_52,#Celda_54,#Celda_56,#Celda_57,#Celda_59,#Celda_61,#Celda_63{
+    background-color: #ffffff;
+}
+
+body footer{
+    background-color: #000000;
+    color: white;
+    height: 50px;
+    line-height: 50px;
+}
+
+body footer p{
+    text-align: center; 
+}
